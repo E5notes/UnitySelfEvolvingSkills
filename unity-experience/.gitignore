@@ -1,0 +1,10 @@
+# Local knowledge base outputs (do not commit)
+UnityKnowledge/index/*.db
+UnityKnowledge/logs/
+UnityKnowledge/raw/
+UnityKnowledge/summary/
+UnityKnowledge/archive/
+
+# Local legacy logs (optional)
+references/experience-log.md
+
